@@ -1,0 +1,4 @@
+fast-flights
+schedule
+requests
+python-dotenv
